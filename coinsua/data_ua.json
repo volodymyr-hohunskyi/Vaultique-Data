@@ -1,0 +1,557 @@
+[
+  {
+    "title" : "2000-ліття Різдва Христового",
+    "totalCount" : 6,
+    "coins" : [
+      {
+        "title" : "Хрещення Русі",
+        "date" : "16.10.2000",
+        "url" : "https:\/\/www.ua-coins.info\/ua\/list\/55-khreshchennya-rusi",
+        "details" : {
+          "reverse" : {
+            "imageURL" : "\/images\/coins\/55_reverse.jpg",
+            "description" : "На реверсі монети на передньому плані розміщено хрестоподібну композицію із зображенням князя Володимира-Хрестителя на тлі сцени хрещення киян і стилізований напис: ХРЕЩЕННЯ РУСІ"
+          },
+          "diameter" : "35",
+          "mass" : "16.54",
+          "mintage" : "100 000 шт.",
+          "description" : "Присвячена офіційному запровадженню християнства як державної релігії. На початку 988 року християнство прийняли Володимир Великий та його найближче оточення. Весною того ж року до віри прилучилися кияни, що започаткувало початок хрещення всієї країни.",
+          "metal" : "нейзильбер",
+          "obverse" : {
+            "imageURL" : "\/images\/coins\/55_obverse.jpg",
+            "description" : "На аверсі монети між двома постатями ангелів розміщено зображення малого Державного Герба України і написи: УКРАЇНА та 5, ГРИВЕНЬ, 2000, та логотип Монетного двору Національного банку України"
+          }
+        },
+        "price" : "318",
+        "circulation" : "100",
+        "nominal" : "5 грн."
+      },
+      {
+        "date" : "16.10.2000",
+        "url" : "https:\/\/www.ua-coins.info\/ua\/list\/1992-khreshchennya-rusi",
+        "nominal" : "10 грн. срібло",
+        "details" : {
+          "description" : "Присвячена офіційному запровадженню християнства як державної релігії. На початку 988 року християнство прийняли Володимир Великий та його найближче оточення. Весною того ж року до віри прилучилися кияни, що започаткувало початок хрещення всієї країни.",
+          "diameter" : "39",
+          "mass" : "31.1",
+          "reverse" : {
+            "description" : "На реверсі монети на передньому плані розміщено хрестоподібну композицію із зображенням князя Володимира-Хрестителя на тлі сцени хрещення киян і стилізований напис: ХРЕЩЕННЯ РУСІ",
+            "imageURL" : "\/images\/coins\/1992_reverse.jpg"
+          },
+          "metal" : "срібло (Ag 925)",
+          "mintage" : "10 000 шт.",
+          "obverse" : {
+            "imageURL" : "\/images\/coins\/1992_obverse.jpg",
+            "description" : "На аверсі монети між двома постатями ангелів розміщено зображення малого Державного Герба України і написи:на монеті з срібла - УКРАЇНА та 10, ГРИВЕНЬ, 2000, позначення металу Ag, його проба - 925, вага в чистоті - 31,1; та логотип Монетного двору Національного банку України."
+          }
+        },
+        "price" : "3 480",
+        "circulation" : "10",
+        "title" : "Хрещення Русі"
+      },
+      {
+        "details" : {
+          "mintage" : "3 000 шт.",
+          "metal" : "золото (Au 900)",
+          "obverse" : {
+            "description" : "На аверсі монети між двома постатями ангелів розміщено зображення малого Державного Герба України і написи: на монеті з золота - УКРАЇНА та 50, ГРИВЕНЬ, 2000, позначення металу Au, його проба - 900, вага в чистоті - 15,55; логотип Монетного двору Національного банку України",
+            "imageURL" : "\/images\/coins\/1993_obverse.jpg"
+          },
+          "diameter" : "25",
+          "reverse" : {
+            "description" : "На реверсі монети на передньому плані розміщено хрестоподібну композицію із зображенням князя Володимира-Хрестителя на тлі сцени хрещення киян і стилізований напис: ХРЕЩЕННЯ РУСІ",
+            "imageURL" : "\/images\/coins\/1993_reverse.jpg"
+          },
+          "mass" : "15.55",
+          "description" : "Присвячена офіційному запровадженню християнства як державної релігії. На початку 988 року християнство прийняли Володимир Великий та його найближче оточення. Весною того ж року до віри прилучилися кияни, що започаткувало початок хрещення всієї країни."
+        },
+        "title" : "Хрещення Русі",
+        "url" : "https:\/\/www.ua-coins.info\/ua\/list\/1993-khreshchennya-rusi",
+        "price" : "немає даних",
+        "nominal" : "50 грн. золото",
+        "date" : "16.10.2000",
+        "circulation" : "3"
+      },
+      {
+        "title" : "Різдво Христове",
+        "circulation" : "100",
+        "url" : "https:\/\/www.ua-coins.info\/ua\/list\/43-rizdvo-khrystove",
+        "details" : {
+          "diameter" : "35",
+          "reverse" : {
+            "description" : "На реверсі монети в обрамленні символічних геометричних фігур відтворено біблійну легенду про народження Ісуса Христа - у сяйві віфлеємської зірки зображено Богоматір із немовлям в оточенні свійських тварин і волхвів з дарами.",
+            "imageURL" : "\/images\/coins\/43_reverse.jpg"
+          },
+          "metal" : "нейзильбер",
+          "mass" : "16.54",
+          "mintage" : "100 000 шт.",
+          "obverse" : {
+            "description" : "На аверсі монети між двома постатями ангелів розміщено зображення малого Державного герба України і написи: на монеті з нейзильберу - УКРАЇНА та 5, ГРИВЕНЬ, 1999, та логотип Монетного двору Національного банку України..",
+            "imageURL" : "\/images\/coins\/43_obverse.jpg"
+          },
+          "description" : "За Євангельським сказанням у місті Віфлеємі 2000 років тому від Діви Марії та Духа Святого народився Син Божий - Ісус Христос, засновник християнського віровчення."
+        },
+        "date" : "29.12.1999",
+        "nominal" : "5 грн.",
+        "price" : "595"
+      },
+      {
+        "date" : "29.12.1999",
+        "title" : "Різдво Христовe",
+        "price" : "немає даних",
+        "nominal" : "50 грн. золото",
+        "url" : "https:\/\/www.ua-coins.info\/ua\/list\/1998-rizdvo-khrystove",
+        "details" : {
+          "reverse" : {
+            "imageURL" : "\/images\/coins\/1998_reverse.jpg",
+            "description" : "На реверсі монети в обрамленні символічних геометричних фігур відтворено біблійну легенду про народження Ісуса Христа - у сяйві віфлеємської зірки зображено Богоматір із немовлям в оточенні свійських тварин і волхвів з дарами."
+          },
+          "mass" : "15.55",
+          "metal" : "золото (Au 900)",
+          "mintage" : "3 000 шт.",
+          "obverse" : {
+            "imageURL" : "\/images\/coins\/1998_obverse.jpg",
+            "description" : "На аверсі монети між двома постатями ангелів розміщено зображення малого Державного герба України і написи: на монеті з золота - УКРАЇНА та 50, ГРИВЕНЬ, 1999, позначення металу - Au, його проба - 900, вага у чистоті - 15,55;"
+          },
+          "description" : "За Євангельським сказанням у місті Віфлеємі 2000 років тому від Діви Марії та Духа Святого народився Син Божий - Ісус Христос, засновник християнського віровчення.",
+          "diameter" : "25"
+        },
+        "circulation" : "3"
+      },
+      {
+        "date" : "29.12.1999",
+        "nominal" : "10 грн. срібло",
+        "price" : "4 992 ↓",
+        "circulation" : "10",
+        "title" : "Різдво Христове",
+        "url" : "https:\/\/www.ua-coins.info\/ua\/list\/1999-rizdvo-khrystove",
+        "details" : {
+          "diameter" : "39",
+          "mintage" : "10 000 шт.",
+          "obverse" : {
+            "imageURL" : "\/images\/coins\/1999_obverse.jpg",
+            "description" : "На аверсі монети між двома постатями ангелів розміщено зображення малого Державного герба України і написи: УКРАЇНА та 10, ГРИВЕНЬ, 1999, позначення металу - Ag, його проба - 925, вага у чистоті - 31,1;"
+          },
+          "metal" : "срібло (Ag 925)",
+          "mass" : "31.1",
+          "reverse" : {
+            "description" : "На реверсі монети в обрамленні символічних геометричних фігур відтворено біблійну легенду про народження Ісуса Христа - у сяйві віфлеємської зірки зображено Богоматір із немовлям в оточенні свійських тварин і волхвів з дарами.",
+            "imageURL" : "\/images\/coins\/1999_reverse.jpg"
+          },
+          "description" : "За Євангельським сказанням у місті Віфлеємі 2000 років тому від Діви Марії та Духа Святого народився Син Божий - Ісус Христос, засновник християнського віровчення."
+        }
+      }
+    ],
+    "totalPrice" : "9 385",
+    "baseCount" : 2,
+    "preciousCount" : 4,
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/2000-letiyu-rozhdestva-hristova"
+  },
+  {
+    "coins" : [
+
+    ],
+    "baseCount" : 0,
+    "title" : "Античні пам’ятки України",
+    "totalCount" : 2,
+    "preciousCount" : 2,
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/antichnye-pamyatniki-ukrainy",
+    "totalPrice" : "0"
+  },
+  {
+    "totalPrice" : "35 364",
+    "baseCount" : 12,
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/bessmertnaya-moya-ukraina",
+    "totalCount" : 17,
+    "coins" : [
+
+    ],
+    "preciousCount" : 5,
+    "title" : "Безсмертна моя Україно"
+  },
+  {
+    "totalCount" : 46,
+    "preciousCount" : 19,
+    "totalPrice" : "370 369",
+    "coins" : [
+
+    ],
+    "title" : "Відродження української державності",
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/vozrozhdenie-ukrainskoy-gosudarstvennosti",
+    "baseCount" : 27
+  },
+  {
+    "preciousCount" : 2,
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/vozrozhdenie-hristianskoy-duhovnosti-v-ukraine",
+    "baseCount" : 0,
+    "coins" : [
+
+    ],
+    "title" : "Відродження християнської духовності в Україні",
+    "totalPrice" : "6 775",
+    "totalCount" : 2
+  },
+  {
+    "totalCount" : 21,
+    "coins" : [
+
+    ],
+    "baseCount" : 20,
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/vooruzhennye-sily-ukrainy",
+    "totalPrice" : "8 909",
+    "preciousCount" : 1,
+    "title" : "Збройні Сили України"
+  },
+  {
+    "totalCount" : 21,
+    "title" : "Східний календар",
+    "coins" : [
+
+    ],
+    "preciousCount" : 12,
+    "totalPrice" : "38 782",
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/vostochnyy-kalendar",
+    "baseCount" : 9
+  },
+  {
+    "baseCount" : 143,
+    "totalPrice" : "219 230",
+    "title" : "Видатні особистості України",
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/vydayuschiesya-lichnosti-ukrainy",
+    "totalCount" : 174,
+    "coins" : [
+
+    ],
+    "preciousCount" : 31
+  },
+  {
+    "preciousCount" : 14,
+    "baseCount" : 33,
+    "title" : "Вищі навчальні заклади України",
+    "totalCount" : 47,
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/vysshie-uchebnye-zavedeniya-ukrainy",
+    "totalPrice" : "36 192",
+    "coins" : [
+
+    ]
+  },
+  {
+    "totalCount" : 21,
+    "totalPrice" : "102 652",
+    "baseCount" : 3,
+    "title" : "Герої козацької доби",
+    "preciousCount" : 18,
+    "coins" : [
+
+    ],
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/geroi-kazackoy-epohi"
+  },
+  {
+    "title" : "Героям Майдану",
+    "totalPrice" : "1 218",
+    "baseCount" : 3,
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/geroyam-maydana",
+    "totalCount" : 3,
+    "preciousCount" : 0,
+    "coins" : [
+
+    ]
+  },
+  {
+    "coins" : [
+
+    ],
+    "preciousCount" : 3,
+    "title" : "Гетьманські столиці",
+    "totalPrice" : "9 947",
+    "totalCount" : 3,
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/getmanskie-stolicy",
+    "baseCount" : 0
+  },
+  {
+    "totalCount" : 4,
+    "coins" : [
+
+    ],
+    "title" : "Міста-герої України",
+    "baseCount" : 4,
+    "totalPrice" : "4 421",
+    "preciousCount" : 0,
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/goroda-geroi-ukrainy"
+  },
+  {
+    "totalCount" : 12,
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/detskiy-zodiak",
+    "preciousCount" : 12,
+    "coins" : [
+
+    ],
+    "title" : "Дитячий Зодіак",
+    "baseCount" : 0,
+    "totalPrice" : "22 928"
+  },
+  {
+    "coins" : [
+
+    ],
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/drevnie-goroda-ukrainy",
+    "title" : "Стародавні міста України",
+    "preciousCount" : 7,
+    "totalPrice" : "53 682",
+    "baseCount" : 39,
+    "totalCount" : 46
+  },
+  {
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/drugie-monety",
+    "totalPrice" : "701 588",
+    "preciousCount" : 52,
+    "baseCount" : 97,
+    "totalCount" : 149,
+    "coins" : [
+
+    ],
+    "title" : "Інші монети"
+  },
+  {
+    "totalPrice" : "1 087 751",
+    "coins" : [
+
+    ],
+    "baseCount" : 13,
+    "totalCount" : 50,
+    "preciousCount" : 37,
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/duhovnye-sokrovischa-ukrainy",
+    "title" : "Духовні скарби України"
+  },
+  {
+    "totalCount" : 25,
+    "totalPrice" : "150 421",
+    "coins" : [
+
+    ],
+    "title" : "Знаки зодіаку",
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/znaki-zodiaka",
+    "preciousCount" : 25,
+    "baseCount" : 0
+  },
+  {
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/knyazha-ukraina",
+    "baseCount" : 0,
+    "totalCount" : 10,
+    "preciousCount" : 10,
+    "coins" : [
+
+    ],
+    "title" : "Княжа Україна",
+    "totalPrice" : "94 651"
+  },
+  {
+    "coins" : [
+
+    ],
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/morskaya-istoriya-ukrainy",
+    "baseCount" : 3,
+    "totalCount" : 6,
+    "preciousCount" : 3,
+    "totalPrice" : "24 221",
+    "title" : "Морська історія України"
+  },
+  {
+    "preciousCount" : 0,
+    "baseCount" : 2,
+    "totalCount" : 2,
+    "title" : "На межі тисячоліть",
+    "coins" : [
+
+    ],
+    "totalPrice" : "1 374",
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/na-rubezhe-tysyacheletiy"
+  },
+  {
+    "title" : "Найменша золота монета",
+    "totalPrice" : "119 028",
+    "preciousCount" : 12,
+    "totalCount" : 12,
+    "baseCount" : 0,
+    "coins" : [
+
+    ],
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/naimen-shaya-zolotaya-moneta"
+  },
+  {
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/narodnye-muzykal-nye-instrumenty",
+    "baseCount" : 4,
+    "preciousCount" : 0,
+    "coins" : [
+
+    ],
+    "totalCount" : 4,
+    "totalPrice" : "3 195",
+    "title" : "Народні музичні інструменти"
+  },
+  {
+    "preciousCount" : 7,
+    "baseCount" : 7,
+    "totalPrice" : "26 069",
+    "title" : "Народні промисли та ремесла",
+    "coins" : [
+
+    ],
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/narodnye-promysly-i-remesla",
+    "totalCount" : 14
+  },
+  {
+    "baseCount" : 29,
+    "totalCount" : 30,
+    "totalPrice" : "59 198",
+    "preciousCount" : 1,
+    "title" : "Області України",
+    "coins" : [
+
+    ],
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/oblasti-ukrainy"
+  },
+  {
+    "baseCount" : 7,
+    "totalCount" : 14,
+    "coins" : [
+
+    ],
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/obryadovye-prazdniki-ukrainy",
+    "totalPrice" : "40 016",
+    "title" : "Обрядові свята України",
+    "preciousCount" : 7
+  },
+  {
+    "coins" : [
+
+    ],
+    "baseCount" : 19,
+    "totalPrice" : "378 334",
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/pam-039-pamyatniki-arhitektury-ukrainy",
+    "totalCount" : 50,
+    "preciousCount" : 31,
+    "title" : "Пам’ятки архітектури України"
+  },
+  {
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/pam-039-pamyatniki-drevnih-kul-tur-ukrainy",
+    "totalPrice" : "60 000",
+    "totalCount" : 5,
+    "title" : "Пам’ятки давніх культур України",
+    "baseCount" : 0,
+    "preciousCount" : 5,
+    "coins" : [
+
+    ]
+  },
+  {
+    "preciousCount" : 8,
+    "totalCount" : 22,
+    "totalPrice" : "112 731",
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/pobeda-v-velikoy-otechestvennoy-voyne-1941-1945-gg",
+    "title" : "Перемога у Великій Вітчизняній війні 1941-1945 рр.",
+    "baseCount" : 14,
+    "coins" : [
+
+    ]
+  },
+  {
+    "totalPrice" : "69 033",
+    "totalCount" : 10,
+    "coins" : [
+
+    ],
+    "preciousCount" : 5,
+    "title" : "Літаки України",
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/samolety-ukrainy",
+    "baseCount" : 5
+  },
+  {
+    "title" : "Славетні роди України",
+    "baseCount" : 0,
+    "preciousCount" : 6,
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/slavnye-rody-ukrainy",
+    "totalPrice" : "15 603",
+    "coins" : [
+
+    ],
+    "totalCount" : 6
+  },
+  {
+    "totalPrice" : "200 491",
+    "coins" : [
+
+    ],
+    "baseCount" : 30,
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/sport",
+    "title" : "Спорт",
+    "totalCount" : 59,
+    "preciousCount" : 29
+  },
+  {
+    "coins" : [
+
+    ],
+    "title" : "Сувенірна продукція",
+    "baseCount" : 0,
+    "totalCount" : 9,
+    "totalPrice" : "204 900",
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/suvenirnaya-produkciya",
+    "preciousCount" : 9
+  },
+  {
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/ukraina-kosmicheskaya",
+    "coins" : [
+
+    ],
+    "preciousCount" : 0,
+    "baseCount" : 2,
+    "totalPrice" : "686",
+    "title" : "Україна космічна",
+    "totalCount" : 2
+  },
+  {
+    "coins" : [
+
+    ],
+    "totalCount" : 4,
+    "baseCount" : 4,
+    "totalPrice" : "2 439",
+    "title" : "Українська держава",
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/ukrainskoe-gosudarstvo",
+    "preciousCount" : 0
+  },
+  {
+    "totalPrice" : "370 241",
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/ukrainskoye-nasledie",
+    "totalCount" : 39,
+    "coins" : [
+
+    ],
+    "title" : "Українська спадщина",
+    "baseCount" : 16,
+    "preciousCount" : 23
+  },
+  {
+    "title" : "Фауна в пам’ятках культури України",
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/fauna-v-pamyatnikah-kul-tury-ukrainy",
+    "baseCount" : 0,
+    "totalCount" : 10,
+    "coins" : [
+
+    ],
+    "preciousCount" : 10,
+    "totalPrice" : "44 985"
+  },
+  {
+    "url" : "https:\/\/www.ua-coins.info\/ua\/all\/category\/flora-fauna",
+    "coins" : [
+
+    ],
+    "baseCount" : 36,
+    "preciousCount" : 23,
+    "title" : "Флора і фауна",
+    "totalPrice" : "171 136",
+    "totalCount" : 59
+  }
+]
